@@ -1,0 +1,33 @@
+_repo: A-Study-of-Fairy-Tales_13666
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Suzzallo, Henry
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '39725'
+    url: http://www.gutenberg.org/2009/agents/39725
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kready, Laura Fry
+    alias: Kready, Laura F.
+    birthdate: 1874
+    gutenberg_agent_id: '5153'
+    url: http://www.gutenberg.org/2009/agents/5153
+description: ''
+gutenberg_issued: '2004-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Fairy tales -- History and criticism'
+title: A Study of Fairy Tales
+url: http://www.gutenberg.org/ebooks/13666
